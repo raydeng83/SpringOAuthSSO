@@ -15,4 +15,9 @@ public class HomeController {
         return "home.html";
     }
 
+    @RequestMapping("/protectedResource")
+    public String protectedResource() {
+        return "protected.html";
+    }
+
 }
