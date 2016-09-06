@@ -10,4 +10,4 @@ security:
       clientAuthenticationScheme: form
       scope: profile email
     resource:
-      userInfoUri: https://www.googleapis.com/oauth2/v1/me
+      userInfoUri: https://www.googleapis.com/oauth2/v1/certs

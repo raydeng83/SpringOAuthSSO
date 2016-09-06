@@ -13,6 +13,7 @@ public class SpringGoogleOauthApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringGoogleOauthApplication.class, args);
+
 	}
 }
 
